@@ -1,0 +1,437 @@
+
+Goblins
+As with all humanoid ancestries, different types of goblins and goblin cultures can be found across many lands, each with their own ideals. Known among themselves as rogabrin, meaning “more of us” in their language, goblins are one of the most numerous humanoids in the world. They can be found in every environment humans occupy and in places many other humanoids avoid, including deep cave systems.
+Their long arms and prehensile toes make goblins particularly well adapted to environments requiring climbing, and they live equally comfortably in treetop cities as in subterranean realms filled with stalactites, ledges, and chasms. However, just as many prefer to dwell in tight-knit neighborhoods within diverse cities. Many of those goblins who cross swords with adventuring heroes are the worst of their society-thieves and murderers shunned by their own people.
+Encountered in Groups
+Whether within a society or living in exile, goblins survive and thrive because they work together. A single goblin forced into the wild is terrified. A dozen outlaw goblins are supremely confident-perhaps overly so. Such groups often become bandits who ambush travelers crossing through their territory, be it desert, forest, or underground. Larger hordes might become unscrupulous mercenaries serving powerful villains. No matter how they’re encountered, goblins prefer to fight as an overwhelming force and to flee when foes outnumber friends.
+Mobile and Sneaky
+Short, lithe, and long armed, goblins are built for mobility, stealth, and climbing. Goblins who dwell in untamed wilderness and twisting caves utilize their natural agility to hide from threats and flee when found. These crafty skirmishers might run wild through battle, hacking at their enemies’ knees, or unleash arrows as they dart from tree to tree.
+Goblin Magic
+Some exiled goblins forge pacts with evil entities for magical power, including archfey, deities, and fiends. Goblin assassins conjure darkness made from the souls of their victims, while goblin cursespitters hurl magic hexes that keep their enemies at bay.
+Skitterling
+A six-legged winged rodent the size of a housecat, a skitterling moves their clawed feet as they fly, making them appear to scurry through the air. Goblins train these pets to claw at the faces of enemies, as their feet secrete a toxin that causes temporary sluggishness.
+War Spider
+Goblins ride enormous arachnids as mounts in battle. With blades attached to their legs, a war spider cuts a swath through enemy forces while archers fire from atop a platform on the beast’s back. During a raid, a spider arches their body to launch warriors off their back and into the fray.
+Warg
+Some goblins form a special bond with wargs-canine creatures that many goblin communities raise as mounts, guardians, and companions.
+Goblin Languages
+Most goblins speak Caelian and Szetch. 
+
+Goblin Malice	Malice Features
+At the start of any goblin’s turn, you can spend malice to activate one of the following features.	
+<b>Goblin Mode</b> ◆ 3 Malice
+Each goblin in the encounter gains a +2 bonus to speed until the end of the round.
+
+<b>Tiny Stabs</b> ◆ 5 Malice
+Each enemy in the encounter takes 1 damage for each goblin adjacent to them.
+
+<b>Swamp Stink</b> ◆ 7 Malice
+The encounter map becomes covered in a green mist that lasts until the end of the round, and which can’t be dispersed by wind. All areas of the map become difficult terrain for non-goblins, and each non-goblin on the map must make a <b>Might </b><b>test</b><b>.</b>
+✦	≤11	5 poison damage; weakened until mist disappears
+★	12–16	Weakened until mist disappears
+✸	17+	No effect
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Goblin Runner	Level 1 Minion Harrier
+Goblin, Humanoid	EV 3 for four minions
+<b>Stamina</b> 4	
+<b>Speed</b> 6 (climb)	<b>Size </b>1S / <b>Stability</b> 0
+<b>With Captain</b> Edge on strikes	<b>Free Strike</b> 1
+Might -2	Agility +2	Reason +0	Intuition +0	Presence -1
+<b>Club</b><b> Charge</b> (Action) ◆ 2d10 + 2 ◆ Signature
+<b>Keywords</b> Charge, Melee, Strike, Weapon
+<b>Distance</b> Melee 1	<b>Target</b> One creature or object per minion
+✦	≤11	1 damage
+★	12–16	2 damage
+✸	17+	3 damage
+
+<b>Crafty</b>
+The runner doesn’t provoke opportunity attacks by moving.
+
+Goblin Sniper	Level 1 Minion Artillery
+Goblin, Humanoid	EV 3 for four minions
+<b>Stamina</b> 3	
+<b>Speed</b> 5 (climb)	<b>Size</b> 1S / <b>Stability</b> 0
+<b>With Captain</b> Ranged distance +5	<b>Free Strike</b> 2
+Might -2	Agility +2	Reason +0	Intuition +0	Presence -1
+<b>Bow</b> (Action) ◆ 2d10 + 2 ◆ Signature
+<b>Keywords</b> Ranged, Strike, Weapon
+<b>Distance</b> Ranged 10	<b>Target</b> One creature or object per minion
+✦	≤11	2 damage
+★	12–16	4 damage
+✸	17+	5 damage
+<b>Effect</b> If the sniper doesn’t use a move action this turn, the ability has an edge.
+
+<b>Crafty</b>
+The sniper doesn’t provoke opportunity attacks by moving.
+
+Goblin Spinecleaver	Level 1 Minion Brute
+Goblin, Humanoid	EV 3 for four minions
+<b>Stamina</b> 5	
+<b>Speed</b> 5 (climb)	<b>Size</b> 1S / <b>Stability</b> 0
+<b>With Captain</b> Strike damage +1<b>	</b><b>Free Strike</b> 2
+Might +2	Agility +0	Reason +0	Intuition +0	Presence -1
+<b>Axe</b> (Action) ◆ 2d10 + 2 ◆ Signature
+<b>Keywords</b> Melee, Strike, Weapon
+<b>Distance</b> Melee 1	<b>Target</b> One creature or object per minion
+✦	≤11	2 damage; push 1
+★	12–16	4 damage; push 3
+✸	17+	5 damage; push 4
+
+<b>Crafty</b>
+The spinecleaver doesn’t provoke opportunity attacks by moving.
+
+
+
+
+
+
+Skitterling	Level 1 Minion Hexer
+Animal, Goblin	EV 3 for four minions
+<b>Stamina</b> 3	
+<b>Speed</b> 5 (fly)	<b>Size</b> 1T /<b> Stability</b> 0
+<b>With Captain</b> Speed +3	<b>Free Strike</b> 1
+Might -5	Agility +2	Reason -4	Intuition +0	Presence -2
+<b>Claws</b> (Action) ◆ 2d10 + 2 ◆ Signature
+<b>Keywords</b> Melee, Strike, Weapon
+<b>Distance</b> Melee 1	<b>Target</b> One creature or object per minion
+✦	≤11	1 poison damage
+★	12–16	2 poison damage
+✸	17+	3 poison damage
+<b>Effect</b> The target has a bane on their next strike.
+
+
+Goblin Assassin	Level 1 Horde Ambusher
+Goblin, Humanoid	EV 3
+<b>Stamina</b> 15	
+<b>Speed</b> 6 (climb)	<b>Size</b> 1S / <b>Stability</b> 0
+<b>	</b><b>	</b><b>Free Strike</b> 2
+Might -2	Agility +2	Reason +0	Intuition +0	Presence -2
+<b>Sword</b><b> Stab</b> (Action) ◆ 2d10 + 2 ◆ Signature
+<b>Keywords</b> Melee, Strike, Weapon
+<b>Distance</b> Melee 1	<b>Target</b> One creature or object
+✦	≤11	4 damage
+★	12–16	6 damage
+✸	17+	7 damage
+<b>Effect</b> This ability deals an additional 2 damage if the scoundrel has an edge on the power roll.
+
+<b>Shadow</b><b> Chains</b> (Action) ◆ 2d10 + 2 ◆ 3 Malice
+<b>Keywords</b> Magic, Ranged
+<b>Distance</b> Ranged 10	<b>Target</b> Three creatures
+✦	≤11	2 corruption damage; A<0 restrained (save ends)
+★	12–16	4 corruption damage; A<1 restrained (save ends)
+✸	17+	5 corruption damage; A<2 restrained (save ends)
+
+<b>Crafty</b>
+The assassin doesn’t provoke opportunity attacks by moving.
+
+<b>Hide While Observed</b>
+The assassin can take the Hide maneuver even while observed, though they still must have cover or concealment.
+
+Goblin Cursespitter	Level 1 Horde Hexer 
+Goblin, Humanoid	EV 3
+<b>Stamina</b> 10	
+<b>Speed</b> 5 (climb)	<b>Size</b> 1S / <b>Stability</b> 0
+<b>	</b>	<b>Free Strike</b> 1
+Might -2	Agility +1	Reason +0	Intuition +2	Presence +0
+<b>Eye of </b><b>Surlach</b> (Action) ◆ 2d10 + 2 ◆ Signature
+<b>Keywords</b> Magic, Ranged, Strike
+<b>Distance</b> Ranged 15	<b>Target</b> One creature
+✦	≤11	3 corruption damage; I<0 weakened (save ends)
+★	12–16	4 corruption damage; I<1 weakened (save ends)
+✸	17+	5 corruption damage; I<2 weakened (save ends)
+
+<b>Dizzying Hex</b> (Maneuver) ◆ 2d10 + 2 ◆ 1 Malice
+<b>Keywords</b> Magic, Ranged
+<b>Distance</b> Ranged 10	<b>Target</b> One creature
+✦	≤11	I<0 prone
+★	12–16	I<1 prone can’t stand (EoT)
+✸	17+	prone I<2 and can’t stand (save ends)
+
+<b>Crafty</b>
+The cursespitter doesn’t provoke opportunity attacks by moving.
+
+
+
+
+
+
+Goblin Stinker	Level 1 Horde Controller
+Goblin, Humanoid	EV 3
+<b>Stamina</b> 10	
+<b>Speed</b> 5 (climb)	<b>Size</b> 1S / <b>Stability</b> 0
+<b>	</b>	<b>Free Strike</b> 1
+Might -2	Agility +1	Reason +0	Intuition +0	Presence +2
+<b>Toxic Winds</b> (Action) ◆ 2d10 + 2 ◆ Signature
+<b>Keywords</b> Area, Magic, Ranged
+<b>Distance</b> 3 cube within 15	<b>Target</b> Each enemy in the cube
+✦	≤11	1 poison damage; slide 1
+★	12–16	2 poison damage; slide 2
+✸	17+	3 poison damage; slide 3
+<b>1</b><b>+</b><b> Malice</b> Increase the slide for one target by 1 square for each malice spent.
+
+<b>Swamp Gas</b> (Maneuver)
+<b>Keywords</b> Area, Magic, Ranged
+<b>Distance</b> 3 cube within 10	<b>Target</b> Special
+<b>Effect</b> The area is filled with a green haze until the start of the stinker’s next turn or until the stinker is reduced to Stamina 0. The area is difficult terrain for non-goblin creatures, and each such creature who moves within the area takes 2 poison damage for each square moved. The haze can’t be dispersed by wind.
+
+<b>Crafty</b>
+The stinker doesn’t provoke opportunity attacks by moving.
+
+
+Goblin Underboss	Level 1 Horde Support
+Goblin, Humanoid	EV 3
+<b>Stamina</b> 15	
+<b>Speed</b> 5 (climb)	<b>Size</b> 1S /<b> Stability</b> 0
+<b>	</b>	<b>Free Strike</b> 1
+Might -1	Agility +2	Reason +0	Intuition +0	Presence +1
+<b>Sword</b><b>play</b> (Action) ◆ 2d10 + 2 ◆ Signature
+<b>Keywords</b> Melee, Strike, Weapon
+<b>Distance</b> Melee 1	<b>Target</b> One creature or object
+✦	≤11	3 damage
+★	12–16	4 damage
+✸	17+	5 damage
+<b>Effect</b> One ally adjacent to the target can make a free strike against them.
+
+<b>Get Reckless!</b> (Maneuver)
+<b>Keywords</b> Area
+<b>Distance</b> 5 burst	<b>Target</b> All allies in the burst
+<b>Effect</b> Until the start of the underboss’s next turn, each target has an edge on strikes, and strikes made against them have an edge.
+<b>2</b><b> Malice</b> Strikes don’t have an edge against a target.
+
+<b>Crafty</b>
+The underboss doesn’t provoke opportunity attacks by moving.
+
+
+
+
+
+
+Goblin Warrior	Level 1 Horde Harrier
+Goblin, Humanoid	EV 3
+<b>Stamina</b> 15	
+<b>Speed</b> 6 (climb)	<b>Size</b> 1S / <b>Stability</b> 0
+<b>	</b>	<b>Free Strike</b> 1
+Might -2	Agility +2	Reason +0	Intuition +0	Presence -1
+<b>Spear</b><b> Charge</b> (Action) ◆ 2d10 + 2 ◆ Signature
+<b>Keywords</b> Charge, Melee, Strike, Weapon
+<b>Distance</b> Melee 1	<b>Target</b> One creature or object
+✦	≤11	3 damage
+★	12–16	4 damage
+✸	17+	5 damage
+
+<b>Bury the Point</b> (Action) ◆ 2d10 + 2 ◆ 2 Malice
+<b>Keywords</b> Melee, Strike, Weapon
+<b>Distance</b> Melee 1	<b>Target</b> One creature
+✦	≤11	5 damage; M<0 bleeding (save ends)
+★	12–16	6 damage; M<1 bleeding (save ends)
+✸	17+	7 damage; M<2 bleeding (save ends)
+
+<b>Crafty</b>
+The warrior doesn’t provoke opportunity attacks by moving.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Goblin Monarch	Level 1 Leader
+Goblin, Humanoid	EV 12
+<b>Stamina</b> 80	
+<b>Speed</b> 6 (climb)	<b>Size</b> 1S / <b>Stability</b> 1
+<b>	</b>	<b>Free Strike</b> 4
+Might +3	Agility +2	Reason -4	Intuition +0	Presence -3
+<b>Handaxe</b> (Action) ◆ 2d10 + 3 ◆ Signature
+<b>Keywords</b> Melee, Ranged, Strike, Weapon
+<b>Distance</b> Melee 1 or Ranged 5	<b>Target</b> Two creatures or objects
+✦	≤11	7 damage
+★	12–16	10 damage
+✸	17+	13 damage
+<b>Effect</b> An ally within 10 of the monarch can make a free strike.
+
+<b>Get in Here</b><b>!</b> (Maneuver) ◆ 1 Malice
+<b>Keywords</b> -
+<b>Distance</b> Ranged 20	<b>Target</b> Special
+<b>Effect</b> Two <b>goblin runners</b> appear in unoccupied spaces.
+
+<b>Meat Shield</b> (Triggered Action)
+<b>Keywords</b> -
+<b>Distance</b> Melee 1	<b>Target</b> One ally
+<b>Trigger</b> A creature targets the monarch with a strike.
+<b>Effect</b> The ally becomes the target of the triggering strike instead.
+
+<b>End Effect</b>
+At the end of their turn, the monarch can take 5 damage to end one save ends effect affecting them. This damage can’t be reduced in any way.
+
+<b>Crafty</b>
+The monarch doesn’t provoke opportunity attacks by moving.
+
+<b>What Are You Waiting For?</b> (Villain Action 1)
+<b>Keywords</b> Area
+<b>Distance</b> 10 burst	<b>Target</b> Each ally
+<b>Effect</b> Each target can move up to their speed or make a free strike.
+
+<b>Focus Fire</b> (Villain Action 2)
+<b>Keywords</b> -
+<b>Distance</b> Ranged 10	<b>Target</b> One enemy or object
+<b>Effect</b> Each ally within 10 squares of the target can move up to their speed toward the target.
+
+<b>Kill!</b> (Villain Action 3)
+<b>Keywords</b> -
+<b>Distance</b> Special	<b>Target</b> Special
+<b>Effect</b> Each enemy in the encounter takes 2 damage for each goblin adjacent to them.
+
+
+War Spider	Level 1 Elite Mount
+Animal, Goblin	EV 12
+<b>Stamina</b> 60	
+<b>Speed</b> 7 (climb)	<b>Size</b> 3 / <b>Stability</b> 2
+		<b>Free Strike</b> 4
+Might +2	Agility +1	Reason -4	Intuition +0	Presence -3
+<b>Bite</b> (Action) ◆ 2d10 + 2 ◆ Signature
+<b>Keywords</b> Melee, Strike, Weapon
+<b>Distance</b> Melee 1	<b>Target</b> One creature or object
+✦	≤11	7 poison damage
+★	12–16	11 poison damage
+✸	17+	14 poison damage; M<2 weakened (save ends)
+<b>2 Malice</b> <b>M<3</b> weakened (save ends).
+
+<b>Leg Blade</b> (Action) ◆ 2d10 + 2
+<b>Keywords</b> Melee, Strike, Weapon
+<b>Distance</b> Melee 1	<b>Target</b> Two creatures or objects
+✦	≤11	6 damage
+★	12–16	9 damage
+✸	17+	12 damage
+
+<b>Trample</b> (Action) ◆ 5 Malice
+<b>Keywords</b> -
+<b>Distance</b> Self	<b>Target</b> Self
+<b>Effect</b> The spider shifts up to their speed and makes a Leg Blade strike against each creature who comes within 1 of the spider during the move. The spider makes one power roll against all targets.
+
+<b>Web</b> (Maneuver)
+<b>Keywords</b> Area, Weapon
+<b>Distance</b> 3 cube within 1	<b>Target</b> All creatures in the cube
+✦	≤11	A<0 restrained (save ends)
+★	12–16	A<1 restrained (save ends)
+✸	17+	A<2 restrained (save ends)
+<b>Distance</b> The affected area is considered difficult terrain for enemies.
+
+<b>Skitter</b> (Triggered Action)
+<b>Keywords</b> -
+<b>Distance</b> Self	<b>Target</b> Self
+<b>Trigger</b> The spider or an ally riding the spider take damage.
+<b>Effect</b> The spider halves the damage, and then shifts 2 squares after the triggering effect resolves.
+
+<b>Ride Launcher</b>
+An ally who leaps off the back of the spider can jump up to 6 squares without a test, and takes no damage if they fall during the jump. After the jump, the first melee strike an ally makes on the same turn gains an edge.
+
+<b>Wide Back</b>
+Two of the spider’s size 1 allies can occupy the same space while riding the spider.
+
+
+
+
+
+Warg	Level 1 Horde Mount
+Animal, Goblin	EV 3
+<b>Stamina</b> 15	
+<b>Speed</b> 5	<b>Size</b> 1L / <b>Stability</b> 1
+		<b>Free Strike</b> 1
+Might +1	Agility +2	Reason -1	Intuition +0	Presence -1
+<b>Bite</b> (Action) ◆ 2d10 + 2 ◆ Signature
+<b>Keywords</b> Charge, Melee, Strike, Weapon
+<b>Distance</b> Melee 1	<b>Target</b> One creature or object
+✦	≤11	3 damage
+★	12–16	4 damage
+✸	17+	5 damage
+
+<b>Sprint</b> (Maneuver) ◆ 1 Malice
+<b>Keywords</b> -
+<b>Distance</b> Self	<b>Target</b> Self
+<b>Effect</b> The warg moves up to their speed.
+
+<b>Mounted Charger</b>
+If a warg used as a mount charges, their rider gains an edge on melee strikes until the end of their turn.
+
+<b>Shared Crafty</b>
+If the warg’s rider has the Crafty trait, the warg also has the Crafty trait.
+
+
+Retainer
+Goblin Guide 	Level 1 Harrier Retainer
+Goblin, Humanoid	
+<b>Stamina</b> 21
+<b>Speed</b> 5 (climb)	<b>Size</b> 1S/<b>Stability</b> 0
+<b>Free Strike</b> 2
+Might -1	Agility +1	Reason 0	Intuition 0	Presence +1
+<b>Stabbity</b><b> Stab</b> (Action) - 2d10 + highest characteristic - Signature
+<b>Keywords</b> Melee, Strike, Weapon
+<b>Distance</b> Melee 1 	<b>Target </b>1 creature or object
+✦	≤11		3 damage
+★	12–16	5 damage
+✸	17+		7 damage
+<b>Effect</b> The target can’t make opportunity attacks until the end of the guide’s turn.
+
+<b>Crafty</b>
+The guide doesn’t provoke opportunity attacks by moving.
+
+Level 4 Retainer Advancement Ability
+<b>Weaving Knives</b> (Action, Encounter) - 2d10 + highest characteristic
+<b>Keywords</b> Melee, Strike, Weapon
+<b>Distance</b> Melee 1	<b>Target</b> 1 creature or object
+✦	≤11		5 damage
+★	12–16		9 damage
+✸	17+		12 damage
+<b>Effect</b> The guide can shift up to their speed before and after the attack.
+
+Level 7 Retainer Advancement Ability
+<b>Sneak and Stab</b> (Action, Encounter) - 2d10 + highest characteristic
+<b>Keywords</b> Melee, Strike, Weapon
+<b>Distance</b> Melee 1	<b>Target</b> 1 creature
+✦	≤11		8 damage
+★	12–16		12 damage; the guide and their mentor can move up to their speed
+✸	17+		16 damage; the guide and their mentor can move up to their speed and use the Hide maneuver
+<b>Effect</b> If the guide is hidden from the target, the attack has a double edge.
+
+Level 10 Retainer Advancement Ability
+<b>Poison Blade</b> (Maneuver, Encounter) - 2d10 + highest characteristic
+<b>Keywords</b> -
+<b>Distance</b> Special	<b>Target</b> Special
+<b>Effect</b>	The guide applies poison to their weapon. The next time the guide gets a tier 2 or 3 result on an attack with the Weapon keyword, the attack deals an extra 10 poison damage and the target is M (average) weakened (save ends). If the guide is adjacent to their mentor when they use Poison Blade, the mentor’s weapon is poisoned in the same way. 
+
