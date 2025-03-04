@@ -1,0 +1,2 @@
+# WallAssetLua : [:AssetImageBaseLua](:AssetImageBaseLua)
+

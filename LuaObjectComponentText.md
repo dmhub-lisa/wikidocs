@@ -1,0 +1,2 @@
+# LuaObjectComponentText : [:LuaObjectComponent](:LuaObjectComponent)
+
